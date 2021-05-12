@@ -1,0 +1,118 @@
+2021-04-12T11:54:35+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b700f92db56dd13d8a88508800dbd857
+            [Date] => 12 de abril de 2021 @ 11:54
+            [URL] => https://www.bling.com.br/Api/v2/webhook/woocommerce/203611302/orders
+            [Duration] => 0.79442
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/5.0.0 Hookshot (WordPress/5.6.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cspcursos.online/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => obkyLWetWXbXtzOKEnCeSEnulH2cDasxcmn+c1IQukw=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => b700f92db56dd13d8a88508800dbd857
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 12 Apr 2021 11:54:35 GMT
+                                    [content-type] => application/xml
+                                    [content-length] => 180
+                                    [set-cookie] => __cfduid=d24877e707d589bb4d119d04a49b746ec1618228474; expires=Wed, 12-May-21 11:54:34 GMT; path=/; domain=.bling.com.br; HttpOnly; SameSite=Lax
+                                    [content-encoding] => gzip
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, public, must-revalidate, max-age=2592000
+                                    [cf-cache-status] => DYNAMIC
+                                    [cf-request-id] => 0967880b5e0000e0b658221000000001
+                                    [expect-ct] => max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                                    [server] => cloudflare
+                                    [cf-ray] => 63ec42befa89e0b6-IAD
+                                    [alt-svc] => h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-04-12T11:54:35+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 91f9066aea1e39ddcf903ae1652ed765
+            [Date] => 12 de abril de 2021 @ 11:54
+            [URL] => https://www.bling.com.br/Api/v2/webhook/woocommerce/203611302/orders
+            [Duration] => 0.29189
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/5.0.0 Hookshot (WordPress/5.6.2)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://cspcursos.online/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => 5JT7GrV16n47wGrFE0EK/W+0kI+I4EvMtbp0zNDj1Jw=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 91f9066aea1e39ddcf903ae1652ed765
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 12 Apr 2021 11:54:35 GMT
+                                    [content-type] => application/xml
+                                    [content-length] => 179
+                                    [set-cookie] => __cfduid=d61d19ca9c736786baf1eea7db0eae96f1618228475; expires=Wed, 12-May-21 11:54:35 GMT; path=/; domain=.bling.com.br; HttpOnly; SameSite=Lax
+                                    [content-encoding] => gzip
+                                    [vary] => Accept-Encoding
+                                    [cache-control] => no-cache, public, must-revalidate, max-age=2592000
+                                    [cf-cache-status] => DYNAMIC
+                                    [cf-request-id] => 0967880e1800005b042436c000000001
+                                    [expect-ct] => max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+                                    [server] => cloudflare
+                                    [cf-ray] => 63ec42c35e735b04-IAD
+                                    [alt-svc] => h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

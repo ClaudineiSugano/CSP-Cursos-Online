@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'davis-sans';
+					src: url('/wp-content/uploads/useanyfont/2023Davis-Sans.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2023Davis-Sans.woff') format('woff');
+					font-display: auto;
+				}
+
+				.davis-sans{font-family: 'davis-sans' !important;}
+
+		

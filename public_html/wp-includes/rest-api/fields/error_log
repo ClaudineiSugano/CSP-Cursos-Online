@@ -1,0 +1,4 @@
+[16-Feb-2021 02:40:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/u949487507/domains/cspcursos.online/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/u949487507/domains/cspcursos.online/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
